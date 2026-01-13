@@ -6,8 +6,8 @@
 
 ## Index
 
-**1. [Installation JDK](#)  
-2. [Java basic concepts](#)**
+**1. [Installation JDK](/JAVA001.installations.md)  
+2. [Java basic concepts](/JAVA002_basics/)**
 
 ---
 

@@ -24,7 +24,7 @@ All you need to do is simply click **Next**, ...
 
 ```text
 Variable name = JAVA_HOME
-Variable value= <the copied path in 3.1>
+Variable value= <the copied path in 3.1 (remove "/bin" at the end)>
 ```
 
 then click **OK**.  
@@ -34,7 +34,7 @@ then click **OK**.
 
 ### **Step 4: Verify the installation**
 
-Open `cmd` (Command promt) and run this command:
+Open `cmd` (Command prompt) and run this command:
 
 ```bash
 java --version
