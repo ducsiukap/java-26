@@ -4,7 +4,7 @@
 
 1. [Interfaces in Java](/java005_interfaces/interfaces.java)
 2. [Functional interfaces](/java005_interfaces/functionalInterface.java)
-3. [Nested tinterfaces](/java005_interfaces/nestedInterface.java.java)
+3. [Nested tinterfaces](/java005_interfaces/nestedInterface.java)
 
 ## Contact
 
