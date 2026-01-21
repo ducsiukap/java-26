@@ -7,10 +7,11 @@
 ## Index
 
 **1. [Installation JDK](/JAVA001.installations.md)  
-2. [Java basic concepts](/JAVA002_basics/)  
+2. [Java basic concepts](/JAVA002_basics/README.md)  
 3. [Regex](/java003_regex.java)  
-4. [OOPs](/java004_oops/)  
-5. [Interfaces](/java005_interfaces/)**
+4. [OOPs](/java004_oops/README.md)  
+5. [Interfaces](/java005_interfaces/README.md)  
+6. [Exceptions](/java006_exceptions/)**
 
 ---
 
