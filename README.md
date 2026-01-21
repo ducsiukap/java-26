@@ -11,7 +11,8 @@
 3. [Regex](/java003_regex.java)  
 4. [OOPs](/java004_oops/README.md)  
 5. [Interfaces](/java005_interfaces/README.md)  
-6. [Exceptions](/java006_exceptions/)**
+6. [Exceptions](/java006_exceptions/)  
+7. [Collections](/java007_collection/README.md)**
 
 ---
 
